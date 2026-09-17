@@ -7,11 +7,11 @@ Real-time procedural vertex system for Blender.
 ## 🔥 Preview
 
 
+## 🔥 Preview
 
-```md
 ![Vertex Lite Preview](SF.png)
-```
 
+---
 ---
 
 ## 🚀 Download
