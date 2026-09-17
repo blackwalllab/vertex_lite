@@ -6,7 +6,7 @@ Real-time procedural vertex system for Blender.
 
 ## 🔥 Preview
 
-Preview GIF will be added here later.
+
 
 ```md
 ![Vertex Lite Preview](SF.png)
