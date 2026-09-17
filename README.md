@@ -9,7 +9,7 @@ Real-time procedural vertex system for Blender.
 Preview GIF will be added here later.
 
 ```md
-![Vertex Lite Preview](https://github.com/blackwalllab/vertex_lite/raw/main/preview.gif)
+![Vertex Lite Preview](SF.png)
 ```
 
 ---
